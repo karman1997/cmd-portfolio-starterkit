@@ -18,4 +18,35 @@ Deliverables: Doodles, Illustrations
 
 ----
 
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "The project we received from the client Hogeschool Rotterdam was to introduce the first-year students in Rotterdam to the city of Rotterdam, the study and each other through a group game. We had to choose a specific Rotterdam theme and target group as a team. We received this assignment, because most freshmen do not know much about design yet. As a designer you want the current situation to be changed to the desired situation.",
+        "id": "_tvDIF18iD",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I worked on this project with 3 other classmates. We had divided the tasks well and everyone knew what he / she had to do. My tasks were mainly graphic, because my team knew that I have knowledge about graphic design. I made the corporate identity for this project. During the Design Challenge I have built up a lot of knowledge and, more importantly, knowledge that I also had during the project. What gave me the most knowledge and helped listening to research, paper - prototyping, blogging and analysis.",
+        "id": "_qOpVP5jPQ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Before I started the Design Challenge, I did not know how and where to start, and after I did the lectures, more doors opened up for me during the research for the project. I was more open to change and I also learned to look critically at the information I have looked up. That it does not matter if you have researched certain information but ultimately did not do anything with it.",
+        "id": "_338OUmt4Q",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "That just helped me to analyze the information first and then draw a conclusion. For the next time I also want to challenge myself to do something outside my comfort zone. For example be a teamcaptain for my next group. It is something I would never do, but want to try.",
+        "id": "_G6BUNlXpz",
+        "type": "paragraph"
+    }
+]
+
+----
+
 Textarea: 
