@@ -30,3 +30,15 @@ h1 {
     border-color: coral;
 }
 
+a {
+    color: black;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+a:hover {
+    color: coral;
+    text-decoration: none;
+    background-color: transparent;
+}
+
