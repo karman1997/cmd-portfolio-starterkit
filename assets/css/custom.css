@@ -1,4 +1,9 @@
-h1
-{
-    color: coral;
+h1 {
+    color:#FFD1BD;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: coral;
+    border-color: coral;
 }
