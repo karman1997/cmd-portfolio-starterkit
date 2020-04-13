@@ -2,8 +2,30 @@ h1 {
     color:#FFD1BD;
 }
 
+.lead {
+    color: #1F4045;
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+
 .btn-primary {
     color: #fff;
     background-color: coral;
+    border-color: coral;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #1F4045;
+    border-color: #1F4045;
+}
+
+.btn-outline-primary {
+    color: #1F4045;
+    border-color: #1F4045;
+}
+
+.btn-outline-primary:hover {
+    Color: coral;
     border-color: coral;
 }
