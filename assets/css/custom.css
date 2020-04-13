@@ -42,3 +42,13 @@ a:hover {
     background-color: transparent;
 }
 
+.border-top {
+    border-top: 1px solid #dee2e6!important;
+    padding-top: 70px;
+}
+
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+    padding-top: 70px;
+}
+
