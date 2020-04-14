@@ -36,3 +36,5 @@
 </main>
 
 <?php snippet('footer') ?>
+
+html_entity_decode
