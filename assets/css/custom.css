@@ -1,6 +1,5 @@
 h1 {
-    color:#FFD1BD;
-}
+    color:coral
 
 .lead {
     color: #1F4045;
@@ -22,11 +21,13 @@ h1 {
 
 .btn-outline-primary {
     color: #1F4045;
+    background-color: #fff;
     border-color: #1F4045;
 }
 
 .btn-outline-primary:hover {
     Color: coral;
+    background-color: #fff;
     border-color: coral;
 }
 
@@ -52,3 +53,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
     padding-top: 70px;
 }
 
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+    padding-top: 10px;
+}
