@@ -6,7 +6,7 @@ Roles: Visual Design, Ideation
 
 ----
 
-Duration: Ongoing
+Duration: 
 
 ----
 
@@ -14,7 +14,7 @@ Clients: Rotterdam University of Applied Sciences
 
 ----
 
-Deliverables: Doodles, Illustrations
+Deliverables: board game
 
 ----
 
@@ -43,6 +43,120 @@ Text:
         "attrs": [],
         "content": "That just helped me to analyze the information first and then draw a conclusion. For the next time I also want to challenge myself to do something outside my comfort zone. For example be a teamcaptain for my next group. It is something I would never do, but want to try.",
         "id": "_G6BUNlXpz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_ttvokmszc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/6e109501-cd99-45b5-8675-034aa88af1a2-2.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/4174398994-1587160136/6e109501-cd99-45b5-8675-034aa88af1a2-2.jpg",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/6e109501-cd99-45b5-8675-034aa88af1a2-2.jpg",
+            "ratio": 1.3333333333333332593184650249895639717578887939453125,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_d3plv5907",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_1n2m3nosr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/13adc99e-0bd9-4ac3-bd18-a1ecc79457e6-2.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/1980319626-1587160149/13adc99e-0bd9-4ac3-bd18-a1ecc79457e6-2.jpg",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/13adc99e-0bd9-4ac3-bd18-a1ecc79457e6-2.jpg",
+            "ratio": 0.75,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_7neonatsf",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_47r01j2hh",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/25a3620e-175b-42c3-b26d-da83e0fb6b7b-2.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/2599416672-1587160161/25a3620e-175b-42c3-b26d-da83e0fb6b7b-2.jpg",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/25a3620e-175b-42c3-b26d-da83e0fb6b7b-2.jpg",
+            "ratio": 0.75,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_g3fy9b8z9",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_blfufkkfi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/59eb35db-718a-4b9b-b03a-a2106d0160da-2.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/3666949176-1587160177/59eb35db-718a-4b9b-b03a-a2106d0160da-2.jpg",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/59eb35db-718a-4b9b-b03a-a2106d0160da-2.jpg",
+            "ratio": 0.75,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_dob7y2n8i",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_zkmvs6dcv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/157b0a38-23af-466f-bcfd-f0209acd6fa2-2.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/3138354791-1587160188/157b0a38-23af-466f-bcfd-f0209acd6fa2-2.jpg",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/157b0a38-23af-466f-bcfd-f0209acd6fa2-2.jpg",
+            "ratio": 1.3333333333333332593184650249895639717578887939453125,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_qcnppm8yj",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_jbvrr3q2k",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/578b4f78-5a8d-4bff-8b15-c024c2f5c0b0-2.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/2633335872-1587160197/578b4f78-5a8d-4bff-8b15-c024c2f5c0b0-2.jpg",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/578b4f78-5a8d-4bff-8b15-c024c2f5c0b0-2.jpg",
+            "ratio": 0.75,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_o2y25ql5o",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_20w57yek4",
         "type": "paragraph"
     }
 ]
