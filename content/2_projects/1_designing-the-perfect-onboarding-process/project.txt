@@ -2,7 +2,7 @@ Title: Matcha Lab
 
 ----
 
-Roles: Interaction design, visual design, usability research & testing
+Roles: 
 
 ----
 
@@ -52,15 +52,148 @@ Text:
         "type": "paragraph"
     },
     {
+        "attrs": [],
+        "content": "",
+        "id": "_fghkdi59s",
+        "type": "paragraph"
+    },
+    {
         "attrs": {
-            "src": "http://localhost:8888/cmd-portfolio-starterkit/media/pages/projects/designing-the-perfect-onboarding-process/2572562093-1579364703/16-9-dummy.jpg",
-            "id": "projects/designing-the-perfect-onboarding-process/16-9-dummy.jpg",
-            "ratio": 1.77777777777777767909128669998608529567718505859375,
-            "caption": "Caption yeah!"
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/Karman_Koh_Brand Identity Book_Matcha Lab_Pagina_01.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/197532529-1587159217/Karman_Koh_Brand Identity Book_Matcha Lab_Pagina_01.jpg",
+            "id": "projects/designing-the-perfect-onboarding-process/Karman_Koh_Brand Identity Book_Matcha Lab_Pagina_01.jpg",
+            "ratio": 1.414147521160822318364580496563576161861419677734375,
+            "caption": "Matcha Bar Branding Book"
         },
         "content": "",
-        "id": "_u394bdt1a",
+        "id": "_ptrpo1k8b",
         "type": "image"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/Karman_Koh_Brand Identity Book_Matcha Lab_Pagina_02.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/1281778081-1587159217/Karman_Koh_Brand Identity Book_Matcha Lab_Pagina_02.jpg",
+            "id": "projects/designing-the-perfect-onboarding-process/Karman_Koh_Brand Identity Book_Matcha Lab_Pagina_02.jpg",
+            "ratio": 2.82829504232164463672916099312715232372283935546875,
+            "caption": "Inhoudsopgave"
+        },
+        "content": "",
+        "id": "_qrul8z1r5",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/Karman_Koh_Brand Identity Book_Matcha Lab_Pagina_03.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/1896237073-1587159217/Karman_Koh_Brand Identity Book_Matcha Lab_Pagina_03.jpg",
+            "id": "projects/designing-the-perfect-onboarding-process/Karman_Koh_Brand Identity Book_Matcha Lab_Pagina_03.jpg",
+            "ratio": 2.82829504232164463672916099312715232372283935546875,
+            "caption": "Brand Statement"
+        },
+        "content": "",
+        "id": "_19q1sl1s2",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/Karman_Koh_Brand Identity Book_Matcha Lab_Pagina_04.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/3274085377-1587159218/Karman_Koh_Brand Identity Book_Matcha Lab_Pagina_04.jpg",
+            "id": "projects/designing-the-perfect-onboarding-process/Karman_Koh_Brand Identity Book_Matcha Lab_Pagina_04.jpg",
+            "ratio": 2.82829504232164463672916099312715232372283935546875,
+            "caption": "Brand Values"
+        },
+        "content": "",
+        "id": "_5e12gb2bt",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/Karman_Koh_Brand Identity Book_Matcha Lab_Pagina_05.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/4266048945-1587159218/Karman_Koh_Brand Identity Book_Matcha Lab_Pagina_05.jpg",
+            "id": "projects/designing-the-perfect-onboarding-process/Karman_Koh_Brand Identity Book_Matcha Lab_Pagina_05.jpg",
+            "ratio": 2.82829504232164463672916099312715232372283935546875,
+            "caption": "Logo"
+        },
+        "content": "",
+        "id": "_wl2m2hd7g",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/Karman_Koh_Brand Identity Book_Matcha Lab_Pagina_09.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/1001803952-1587159218/Karman_Koh_Brand Identity Book_Matcha Lab_Pagina_09.jpg",
+            "id": "projects/designing-the-perfect-onboarding-process/Karman_Koh_Brand Identity Book_Matcha Lab_Pagina_09.jpg",
+            "ratio": 2.82829504232164463672916099312715232372283935546875,
+            "caption": "Typografie"
+        },
+        "content": "",
+        "id": "_5vhmqzrhi",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_eqt80yheh",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/Karman_Koh_Brand Identity Book_Matcha Lab_Pagina_10.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/4261077348-1587159221/Karman_Koh_Brand Identity Book_Matcha Lab_Pagina_10.jpg",
+            "id": "projects/designing-the-perfect-onboarding-process/Karman_Koh_Brand Identity Book_Matcha Lab_Pagina_10.jpg",
+            "ratio": 2.82829504232164463672916099312715232372283935546875,
+            "caption": "Kleur"
+        },
+        "content": "",
+        "id": "_8crtra50v",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/Karman_Koh_Brand Identity Book_Matcha Lab_Pagina_11.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/3231369428-1587159218/Karman_Koh_Brand Identity Book_Matcha Lab_Pagina_11.jpg",
+            "id": "projects/designing-the-perfect-onboarding-process/Karman_Koh_Brand Identity Book_Matcha Lab_Pagina_11.jpg",
+            "ratio": 2.82829504232164463672916099312715232372283935546875,
+            "caption": "Beeld"
+        },
+        "content": "",
+        "id": "_a49svsboy",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/Karman_Koh_Brand Identity Book_Matcha Lab_Pagina_12.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/2268770820-1587159218/Karman_Koh_Brand Identity Book_Matcha Lab_Pagina_12.jpg",
+            "id": "projects/designing-the-perfect-onboarding-process/Karman_Koh_Brand Identity Book_Matcha Lab_Pagina_12.jpg",
+            "ratio": 2.82829504232164463672916099312715232372283935546875,
+            "caption": "Beeld"
+        },
+        "content": "",
+        "id": "_o01qlwwou",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/Karman_Koh_Brand Identity Book_Matcha Lab_Pagina_13.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/3126500276-1587159218/Karman_Koh_Brand Identity Book_Matcha Lab_Pagina_13.jpg",
+            "id": "projects/designing-the-perfect-onboarding-process/Karman_Koh_Brand Identity Book_Matcha Lab_Pagina_13.jpg",
+            "ratio": 2.82829504232164463672916099312715232372283935546875,
+            "caption": "Social media"
+        },
+        "content": "",
+        "id": "_yf9cmxgdw",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_svhhdpve6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_6v91zcivw",
+        "type": "paragraph"
     }
 ]
 
