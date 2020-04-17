@@ -1,7 +1,9 @@
 <?php snippet('header') ?>
+<header class="intro">
+  <h1>Get to know me</h1>
+</header>
 <div class="row">
   <div class="col-12 col-lg-9">
-    <?php snippet('intro') ?>
     <?= $page->text()->blocks()->html() ?>
   </div>
   <div class="col-12 col-lg-3">
