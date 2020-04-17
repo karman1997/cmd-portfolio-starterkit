@@ -2,6 +2,9 @@
 <header class="intro">
   <h1>Get to know me</h1>
 </header>
+<div class="col-12 col-lg-6">
+      <img src="<?= $page->image()->url(); ?>" class="img-fluid" alt="<?= $page->image()->title(); ?>" />
+    </div>
 <div class="row">
   <div class="col-12 col-lg-9">
     <?= $page->text()->blocks()->html() ?>
