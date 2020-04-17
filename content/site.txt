@@ -18,6 +18,10 @@ Social:
   platform: LinkedIn
   url: >
     https://www.linkedin.com/in/karman-koh-a38968150/
+- 
+  platform: Instagram
+  url: >
+    https://www.instagram.com/sokarman/?hl=nl
 
 ----
 
