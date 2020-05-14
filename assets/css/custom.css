@@ -53,3 +53,16 @@ header {
     display: block;
     padding-top: 10px;
 }
+
+
+element.style {
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+    max-width: 1000px;
+}
+
+figure img {
+    width: 100%;
+}
