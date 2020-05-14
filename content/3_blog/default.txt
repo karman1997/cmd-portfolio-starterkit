@@ -1,9 +1,0 @@
-Title: Blog
-
-----
-
-Text:
-
-Ik had gekozen voor deze keuzevak, omdat het me een uitdaging leek om te leren hoe je met CSS moest werken. Ik heb het hiervoor nog nooit gedaan en dus moest ik alles van het begin leren. Gelukkig hebben de docenten van de keuzevak mij goed stap voor stap kunnen uitleggen. Zo had ik bijvoorbeeld geleerd dat je wijzigingen kan maken in inspecteren, zonder dat je de originele website aanpast. Zo had ik ook geleerd dat je een clone kan maken van een website waarin je bijvoorbeeld samen in werkt met je project groep. Doordat je een clone maakt werk je niet in originele bestand, maar in jou gekopieerde bestand van de originele bestand. 
-
-In de toekomst zal ik zeker meer tijd aanbesteden aan het leren en oefenen om met CSS te werken, omdat als ik stage ga lopen bij een bedrijf of ga werken bij een bedrijf is het wel een pluspunt als je het kan. Tegenwoordig zijn er zoveel mensen opzoek naar een website bouwer en als je dat kan is dat zeker mooi meegenomen. Wat ik meeneem uit deze keuzevak is dat je geduld moet hebben, omdat het toch een hoop werk is. En tenslotte feedback vragen is ook heel belangrijk, want andere mensen hebben een ander inzicht dan jij.
